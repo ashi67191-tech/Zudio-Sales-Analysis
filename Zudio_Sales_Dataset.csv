@@ -1,0 +1,351 @@
+Order_ID,Date,Month,City,State,Store,Customer_Segment,Product,Category,Units_Sold,Unit_Price_INR,Discount_Percent,Discount_Amount_INR,Sales_Revenue_INR,Payment_Method,Sales_Channel
+ZUD10093,2025-01-02,January,Hyderabad,Telangana,Zudio Hyderabad Store,Men,Men's Shorts,Bottomwear,8,399,5,159.6,3032.4,Debit Card,In-Store
+ZUD10016,2025-01-02,January,Pune,Maharashtra,Zudio Pune Store,Accessories,Cap,Accessories,2,199,15,59.7,338.3,Credit Card,In-Store
+ZUD10316,2025-01-06,January,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Women's T-Shirt,T-Shirts,4,249,5,49.8,946.2,Cash,Online
+ZUD10278,2025-01-08,January,Jaipur,Rajasthan,Zudio Jaipur Store,Accessories,Handbag,Accessories,8,499,20,798.4,3193.6,Debit Card,Online
+ZUD10188,2025-01-10,January,Pune,Maharashtra,Zudio Pune Store,Women,Women's Jeans,Bottomwear,7,799,0,0.0,5593.0,Credit Card,In-Store
+ZUD10266,2025-01-12,January,Pune,Maharashtra,Zudio Pune Store,Men,Men's Shorts,Bottomwear,7,399,10,279.3,2513.7,Debit Card,In-Store
+ZUD10044,2025-01-13,January,Delhi,Delhi,Zudio Delhi Store,Kids,Kids' Jeans,Kidswear,7,499,15,523.95,2969.05,Debit Card,In-Store
+ZUD10303,2025-01-14,January,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Women's Top,Tops,6,299,15,269.1,1524.9,UPI,In-Store
+ZUD10105,2025-01-15,January,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Kids,Kids' Dress,Kidswear,5,399,10,199.5,1795.5,Cash,In-Store
+ZUD10218,2025-01-15,January,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Women's T-Shirt,T-Shirts,5,249,10,124.5,1120.5,Cash,In-Store
+ZUD10248,2025-01-20,January,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Women,Women's T-Shirt,T-Shirts,2,249,20,99.6,398.4,Credit Card,In-Store
+ZUD10050,2025-01-23,January,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's T-Shirt,T-Shirts,4,249,5,49.8,946.2,UPI,In-Store
+ZUD10269,2025-01-23,January,Hyderabad,Telangana,Zudio Hyderabad Store,Men,Men's Shorts,Bottomwear,4,399,15,239.4,1356.6,UPI,In-Store
+ZUD10226,2025-01-25,January,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Women,Women's T-Shirt,T-Shirts,8,249,5,99.6,1892.4,UPI,In-Store
+ZUD10137,2025-01-26,January,Mumbai,Maharashtra,Zudio Mumbai Store,Women,Women's Jeans,Bottomwear,4,799,0,0.0,3196.0,Debit Card,In-Store
+ZUD10244,2025-01-27,January,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Hoodie,Winterwear,2,999,10,199.8,1798.2,Debit Card,In-Store
+ZUD10104,2025-01-27,January,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Jeans,Bottomwear,5,799,5,199.75,3795.25,Cash,In-Store
+ZUD10183,2025-01-27,January,Bengaluru,Karnataka,Zudio Bengaluru Store,Kids,Kids' T-Shirt,Kidswear,2,199,5,19.9,378.1,Debit Card,In-Store
+ZUD10010,2025-01-29,January,Jaipur,Rajasthan,Zudio Jaipur Store,Kids,Kids' Jeans,Kidswear,7,499,5,174.65,3318.35,Debit Card,In-Store
+ZUD10031,2025-01-30,January,Kolkata,West Bengal,Zudio Kolkata Store,Women,Women's Jeans,Bottomwear,2,799,10,159.8,1438.2,Debit Card,Online
+ZUD10030,2025-01-30,January,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Kids,Kids' T-Shirt,Kidswear,6,199,0,0.0,1194.0,Cash,In-Store
+ZUD10287,2025-01-31,January,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Men,Men's Shorts,Bottomwear,8,399,10,319.2,2872.8,UPI,In-Store
+ZUD10136,2025-02-01,February,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's Top,Tops,8,299,0,0.0,2392.0,Debit Card,In-Store
+ZUD10141,2025-02-02,February,Bengaluru,Karnataka,Zudio Bengaluru Store,Men,Men's Shirt,Shirts,2,599,10,119.8,1078.2,Debit Card,In-Store
+ZUD10089,2025-02-03,February,Hyderabad,Telangana,Zudio Hyderabad Store,Men,Men's Shorts,Bottomwear,1,399,0,0.0,399.0,Credit Card,In-Store
+ZUD10144,2025-02-03,February,Delhi,Delhi,Zudio Delhi Store,Women,Women's T-Shirt,T-Shirts,6,249,5,74.7,1419.3,Credit Card,Online
+ZUD10114,2025-02-08,February,Bengaluru,Karnataka,Zudio Bengaluru Store,Kids,Kids' Jeans,Kidswear,6,499,10,299.4,2694.6,Cash,In-Store
+ZUD10342,2025-02-08,February,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Shirt,Shirts,6,599,10,359.4,3234.6,Cash,In-Store
+ZUD10178,2025-02-09,February,Pune,Maharashtra,Zudio Pune Store,Kids,Kids' T-Shirt,Kidswear,1,199,10,19.9,179.1,Debit Card,Online
+ZUD10069,2025-02-11,February,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Women's T-Shirt,T-Shirts,1,249,20,49.8,199.2,Credit Card,In-Store
+ZUD10293,2025-02-12,February,Bengaluru,Karnataka,Zudio Bengaluru Store,Kids,Kids' Jeans,Kidswear,2,499,15,149.7,848.3,UPI,In-Store
+ZUD10013,2025-02-16,February,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Kids,Kids' Dress,Kidswear,3,399,15,179.55,1017.45,Cash,In-Store
+ZUD10292,2025-02-17,February,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's T-Shirt,T-Shirts,8,249,0,0.0,1992.0,UPI,In-Store
+ZUD10005,2025-02-17,February,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Kurti,Ethnic Wear,5,499,15,374.25,2120.75,Cash,In-Store
+ZUD10133,2025-02-19,February,Jaipur,Rajasthan,Zudio Jaipur Store,Kids,Kids' Dress,Kidswear,7,399,10,279.3,2513.7,Cash,In-Store
+ZUD10346,2025-02-20,February,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Women's Jeans,Bottomwear,8,799,10,639.2,5752.8,Cash,In-Store
+ZUD10165,2025-02-22,February,Delhi,Delhi,Zudio Delhi Store,Women,Women's Jeans,Bottomwear,3,799,15,359.55,2037.45,UPI,In-Store
+ZUD10058,2025-02-24,February,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's T-Shirt,T-Shirts,8,249,0,0.0,1992.0,Debit Card,In-Store
+ZUD10076,2025-02-24,February,Hyderabad,Telangana,Zudio Hyderabad Store,Accessories,Socks Pack,Accessories,3,149,5,22.35,424.65,Credit Card,Online
+ZUD10243,2025-02-25,February,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Kids,Kids' Dress,Kidswear,4,399,0,0.0,1596.0,Debit Card,In-Store
+ZUD10073,2025-02-25,February,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Women,Kurti,Ethnic Wear,7,499,5,174.65,3318.35,Debit Card,In-Store
+ZUD10151,2025-02-28,February,Pune,Maharashtra,Zudio Pune Store,Men,Men's Hoodie,Winterwear,1,999,10,99.9,899.1,Credit Card,In-Store
+ZUD10206,2025-02-28,February,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Kids,Kids' Shorts,Kidswear,7,249,20,348.6,1394.4,UPI,In-Store
+ZUD10265,2025-03-02,March,Delhi,Delhi,Zudio Delhi Store,Accessories,Socks Pack,Accessories,3,149,10,44.7,402.3,Debit Card,In-Store
+ZUD10032,2025-03-03,March,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Women,Women's T-Shirt,T-Shirts,1,249,10,24.9,224.1,Cash,In-Store
+ZUD10084,2025-03-03,March,Kolkata,West Bengal,Zudio Kolkata Store,Accessories,Cap,Accessories,4,199,0,0.0,796.0,Cash,In-Store
+ZUD10208,2025-03-04,March,Delhi,Delhi,Zudio Delhi Store,Kids,Kids' Shorts,Kidswear,3,249,15,112.05,634.95,Cash,In-Store
+ZUD10126,2025-03-09,March,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Accessories,Belt,Accessories,7,249,0,0.0,1743.0,Debit Card,In-Store
+ZUD10331,2025-03-11,March,Jaipur,Rajasthan,Zudio Jaipur Store,Kids,Kids' Shorts,Kidswear,7,249,10,174.3,1568.7,Cash,Online
+ZUD10062,2025-03-12,March,Delhi,Delhi,Zudio Delhi Store,Women,Women's Jeans,Bottomwear,4,799,0,0.0,3196.0,Cash,In-Store
+ZUD10297,2025-03-13,March,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Shirt,Shirts,1,599,0,0.0,599.0,Debit Card,In-Store
+ZUD10330,2025-03-13,March,Delhi,Delhi,Zudio Delhi Store,Women,Women's Dress,Dresses,1,699,15,104.85,594.15,UPI,Online
+ZUD10026,2025-03-13,March,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's Dress,Dresses,4,699,15,419.4,2376.6,UPI,Online
+ZUD10223,2025-03-14,March,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Women's Dress,Dresses,7,699,0,0.0,4893.0,Debit Card,In-Store
+ZUD10230,2025-03-15,March,Jaipur,Rajasthan,Zudio Jaipur Store,Men,Men's Hoodie,Winterwear,1,999,0,0.0,999.0,Debit Card,In-Store
+ZUD10203,2025-03-15,March,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Men,Men's Hoodie,Winterwear,1,999,0,0.0,999.0,Debit Card,In-Store
+ZUD10236,2025-03-19,March,Hyderabad,Telangana,Zudio Hyderabad Store,Men,Men's Hoodie,Winterwear,8,999,15,1198.8,6793.2,UPI,In-Store
+ZUD10167,2025-03-19,March,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Women's Dress,Dresses,5,699,15,524.25,2970.75,UPI,In-Store
+ZUD10147,2025-03-20,March,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Women's Top,Tops,2,299,5,29.9,568.1,Credit Card,In-Store
+ZUD10017,2025-03-20,March,Mumbai,Maharashtra,Zudio Mumbai Store,Kids,Kids' T-Shirt,Kidswear,6,199,10,119.4,1074.6,UPI,In-Store
+ZUD10179,2025-03-20,March,Delhi,Delhi,Zudio Delhi Store,Women,Women's T-Shirt,T-Shirts,3,249,10,74.7,672.3,UPI,Online
+ZUD10155,2025-03-21,March,Delhi,Delhi,Zudio Delhi Store,Kids,Kids' T-Shirt,Kidswear,2,199,5,19.9,378.1,Cash,Online
+ZUD10060,2025-03-23,March,Bengaluru,Karnataka,Zudio Bengaluru Store,Men,Men's Jeans,Bottomwear,5,899,15,674.25,3820.75,Cash,In-Store
+ZUD10045,2025-03-23,March,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Women's Top,Tops,8,299,0,0.0,2392.0,Cash,In-Store
+ZUD10215,2025-03-24,March,Mumbai,Maharashtra,Zudio Mumbai Store,Accessories,Cap,Accessories,6,199,20,238.8,955.2,Credit Card,In-Store
+ZUD10250,2025-03-25,March,Bengaluru,Karnataka,Zudio Bengaluru Store,Men,Men's Jeans,Bottomwear,1,899,10,89.9,809.1,Credit Card,In-Store
+ZUD10259,2025-03-26,March,Mumbai,Maharashtra,Zudio Mumbai Store,Kids,Kids' Shorts,Kidswear,2,249,10,49.8,448.2,Cash,In-Store
+ZUD10096,2025-03-26,March,Pune,Maharashtra,Zudio Pune Store,Men,Men's Shorts,Bottomwear,5,399,5,99.75,1895.25,Cash,In-Store
+ZUD10117,2025-03-27,March,Pune,Maharashtra,Zudio Pune Store,Accessories,Handbag,Accessories,6,499,15,449.1,2544.9,Credit Card,In-Store
+ZUD10055,2025-03-28,March,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Women's T-Shirt,T-Shirts,6,249,0,0.0,1494.0,Debit Card,In-Store
+ZUD10119,2025-03-31,March,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Hoodie,Winterwear,4,999,10,399.6,3596.4,Debit Card,In-Store
+ZUD10251,2025-03-31,March,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Kids,Kids' Shorts,Kidswear,7,249,10,174.3,1568.7,UPI,Online
+ZUD10295,2025-04-02,April,Mumbai,Maharashtra,Zudio Mumbai Store,Women,Women's Jeans,Bottomwear,3,799,15,359.55,2037.45,Cash,In-Store
+ZUD10048,2025-04-02,April,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Accessories,Belt,Accessories,1,249,0,0.0,249.0,Cash,In-Store
+ZUD10100,2025-04-03,April,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Men,Men's Hoodie,Winterwear,2,999,10,199.8,1798.2,Cash,In-Store
+ZUD10152,2025-04-03,April,Pune,Maharashtra,Zudio Pune Store,Men,Men's Shirt,Shirts,6,599,5,179.7,3414.3,Debit Card,In-Store
+ZUD10328,2025-04-04,April,Mumbai,Maharashtra,Zudio Mumbai Store,Men,Men's Shorts,Bottomwear,7,399,5,139.65,2653.35,Debit Card,Online
+ZUD10277,2025-04-07,April,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Kids,Kids' Dress,Kidswear,8,399,0,0.0,3192.0,Credit Card,In-Store
+ZUD10024,2025-04-08,April,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Women's Dress,Dresses,6,699,5,209.7,3984.3,Cash,In-Store
+ZUD10290,2025-04-09,April,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Men,Men's Shirt,Shirts,5,599,15,449.25,2545.75,UPI,In-Store
+ZUD10122,2025-04-12,April,Hyderabad,Telangana,Zudio Hyderabad Store,Kids,Kids' T-Shirt,Kidswear,4,199,5,39.8,756.2,Credit Card,In-Store
+ZUD10158,2025-04-15,April,Pune,Maharashtra,Zudio Pune Store,Accessories,Cap,Accessories,5,199,5,49.75,945.25,UPI,In-Store
+ZUD10281,2025-04-15,April,Mumbai,Maharashtra,Zudio Mumbai Store,Women,Women's Top,Tops,4,299,10,119.6,1076.4,UPI,In-Store
+ZUD10338,2025-04-16,April,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Men,Men's Shorts,Bottomwear,5,399,10,199.5,1795.5,Debit Card,In-Store
+ZUD10092,2025-04-17,April,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Top,Tops,3,299,0,0.0,897.0,UPI,In-Store
+ZUD10337,2025-04-18,April,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Men,Men's Shorts,Bottomwear,7,399,0,0.0,2793.0,Debit Card,In-Store
+ZUD10068,2025-04-19,April,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Women's Dress,Dresses,5,699,15,524.25,2970.75,Cash,In-Store
+ZUD10011,2025-04-19,April,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Women's Dress,Dresses,3,699,5,104.85,1992.15,Debit Card,In-Store
+ZUD10294,2025-04-19,April,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Men,Men's T-Shirt,T-Shirts,2,299,10,59.8,538.2,Credit Card,In-Store
+ZUD10177,2025-04-20,April,Mumbai,Maharashtra,Zudio Mumbai Store,Accessories,Socks Pack,Accessories,4,149,0,0.0,596.0,Debit Card,In-Store
+ZUD10186,2025-04-25,April,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Women,Women's Top,Tops,6,299,15,269.1,1524.9,Debit Card,In-Store
+ZUD10274,2025-04-26,April,Pune,Maharashtra,Zudio Pune Store,Kids,Kids' Dress,Kidswear,8,399,20,638.4,2553.6,Cash,Online
+ZUD10056,2025-04-26,April,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Top,Tops,4,299,20,239.2,956.8,UPI,Online
+ZUD10106,2025-04-26,April,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's T-Shirt,T-Shirts,3,299,10,89.7,807.3,Credit Card,In-Store
+ZUD10138,2025-04-30,April,Mumbai,Maharashtra,Zudio Mumbai Store,Kids,Kids' T-Shirt,Kidswear,5,199,15,149.25,845.75,Debit Card,In-Store
+ZUD10116,2025-05-01,May,Pune,Maharashtra,Zudio Pune Store,Accessories,Handbag,Accessories,7,499,20,698.6,2794.4,UPI,Online
+ZUD10279,2025-05-03,May,Kolkata,West Bengal,Zudio Kolkata Store,Women,Kurti,Ethnic Wear,7,499,10,349.3,3143.7,Credit Card,In-Store
+ZUD10268,2025-05-04,May,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's T-Shirt,T-Shirts,1,249,5,12.45,236.55,UPI,In-Store
+ZUD10021,2025-05-07,May,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Top,Tops,4,299,10,119.6,1076.4,UPI,In-Store
+ZUD10090,2025-05-08,May,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Hoodie,Winterwear,4,999,15,599.4,3396.6,Cash,Online
+ZUD10039,2025-05-09,May,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Women,Women's Dress,Dresses,5,699,0,0.0,3495.0,Credit Card,In-Store
+ZUD10216,2025-05-09,May,Jaipur,Rajasthan,Zudio Jaipur Store,Men,Men's Shorts,Bottomwear,5,399,0,0.0,1995.0,Credit Card,In-Store
+ZUD10174,2025-05-10,May,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Kids,Kids' Jeans,Kidswear,2,499,10,99.8,898.2,Debit Card,In-Store
+ZUD10033,2025-05-14,May,Jaipur,Rajasthan,Zudio Jaipur Store,Men,Men's Shirt,Shirts,4,599,5,119.8,2276.2,Debit Card,In-Store
+ZUD10207,2025-05-14,May,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Women's T-Shirt,T-Shirts,5,249,10,124.5,1120.5,Cash,In-Store
+ZUD10280,2025-05-14,May,Mumbai,Maharashtra,Zudio Mumbai Store,Men,Men's Hoodie,Winterwear,8,999,0,0.0,7992.0,Cash,In-Store
+ZUD10253,2025-05-14,May,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Kurti,Ethnic Wear,6,499,5,149.7,2844.3,UPI,In-Store
+ZUD10336,2025-05-15,May,Mumbai,Maharashtra,Zudio Mumbai Store,Kids,Kids' T-Shirt,Kidswear,8,199,15,238.8,1353.2,UPI,In-Store
+ZUD10234,2025-05-16,May,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Men,Men's T-Shirt,T-Shirts,8,299,0,0.0,2392.0,Cash,In-Store
+ZUD10029,2025-05-16,May,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Women's T-Shirt,T-Shirts,8,249,0,0.0,1992.0,Credit Card,In-Store
+ZUD10334,2025-05-18,May,Kolkata,West Bengal,Zudio Kolkata Store,Kids,Kids' Jeans,Kidswear,1,499,15,74.85,424.15,Cash,In-Store
+ZUD10305,2025-05-18,May,Pune,Maharashtra,Zudio Pune Store,Women,Women's Jeans,Bottomwear,2,799,0,0.0,1598.0,Credit Card,Online
+ZUD10302,2025-05-19,May,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Women's Jeans,Bottomwear,7,799,5,279.65,5313.35,Cash,In-Store
+ZUD10038,2025-05-20,May,Pune,Maharashtra,Zudio Pune Store,Men,Men's Shirt,Shirts,4,599,10,239.6,2156.4,Credit Card,Online
+ZUD10061,2025-05-21,May,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Kurti,Ethnic Wear,4,499,5,99.8,1896.2,Credit Card,In-Store
+ZUD10340,2025-05-22,May,Delhi,Delhi,Zudio Delhi Store,Men,Men's Jeans,Bottomwear,4,899,0,0.0,3596.0,Credit Card,In-Store
+ZUD10036,2025-05-26,May,Delhi,Delhi,Zudio Delhi Store,Men,Men's Shorts,Bottomwear,5,399,10,199.5,1795.5,UPI,In-Store
+ZUD10187,2025-05-27,May,Bengaluru,Karnataka,Zudio Bengaluru Store,Men,Men's Jeans,Bottomwear,8,899,5,359.6,6832.4,UPI,In-Store
+ZUD10246,2025-05-27,May,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Accessories,Handbag,Accessories,4,499,10,199.6,1796.4,UPI,In-Store
+ZUD10124,2025-05-27,May,Jaipur,Rajasthan,Zudio Jaipur Store,Men,Men's Shirt,Shirts,4,599,10,239.6,2156.4,Credit Card,In-Store
+ZUD10318,2025-06-01,June,Hyderabad,Telangana,Zudio Hyderabad Store,Accessories,Handbag,Accessories,2,499,15,149.7,848.3,Debit Card,In-Store
+ZUD10306,2025-06-03,June,Bengaluru,Karnataka,Zudio Bengaluru Store,Kids,Kids' Jeans,Kidswear,5,499,20,499.0,1996.0,Cash,In-Store
+ZUD10296,2025-06-03,June,Delhi,Delhi,Zudio Delhi Store,Men,Men's Shorts,Bottomwear,7,399,10,279.3,2513.7,Credit Card,Online
+ZUD10271,2025-06-04,June,Delhi,Delhi,Zudio Delhi Store,Accessories,Cap,Accessories,7,199,5,69.65,1323.35,UPI,In-Store
+ZUD10086,2025-06-04,June,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Men,Men's Jeans,Bottomwear,5,899,0,0.0,4495.0,UPI,In-Store
+ZUD10189,2025-06-04,June,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Women's Dress,Dresses,8,699,0,0.0,5592.0,Cash,In-Store
+ZUD10046,2025-06-06,June,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Jeans,Bottomwear,7,799,5,279.65,5313.35,UPI,In-Store
+ZUD10082,2025-06-06,June,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Women,Women's T-Shirt,T-Shirts,6,249,5,74.7,1419.3,Credit Card,In-Store
+ZUD10018,2025-06-07,June,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's T-Shirt,T-Shirts,2,249,0,0.0,498.0,Cash,In-Store
+ZUD10225,2025-06-07,June,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Women's Dress,Dresses,8,699,20,1118.4,4473.6,Debit Card,In-Store
+ZUD10212,2025-06-08,June,Hyderabad,Telangana,Zudio Hyderabad Store,Accessories,Socks Pack,Accessories,7,149,15,156.45,886.55,UPI,In-Store
+ZUD10175,2025-06-08,June,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's Top,Tops,5,299,10,149.5,1345.5,Credit Card,In-Store
+ZUD10319,2025-06-09,June,Mumbai,Maharashtra,Zudio Mumbai Store,Men,Men's Jeans,Bottomwear,8,899,5,359.6,6832.4,UPI,Online
+ZUD10309,2025-06-10,June,Delhi,Delhi,Zudio Delhi Store,Accessories,Belt,Accessories,5,249,10,124.5,1120.5,Cash,In-Store
+ZUD10049,2025-06-10,June,Hyderabad,Telangana,Zudio Hyderabad Store,Men,Men's Shorts,Bottomwear,2,399,5,39.9,758.1,Debit Card,In-Store
+ZUD10213,2025-06-12,June,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Shorts,Bottomwear,6,399,0,0.0,2394.0,Debit Card,In-Store
+ZUD10200,2025-06-14,June,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Kurti,Ethnic Wear,5,499,5,124.75,2370.25,Cash,In-Store
+ZUD10101,2025-06-14,June,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Kids,Kids' Jeans,Kidswear,7,499,10,349.3,3143.7,Credit Card,Online
+ZUD10098,2025-06-15,June,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Women,Women's Top,Tops,4,299,20,239.2,956.8,UPI,In-Store
+ZUD10310,2025-06-16,June,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's Dress,Dresses,6,699,0,0.0,4194.0,Debit Card,In-Store
+ZUD10325,2025-06-16,June,Jaipur,Rajasthan,Zudio Jaipur Store,Men,Men's Shirt,Shirts,8,599,10,479.2,4312.8,Credit Card,Online
+ZUD10115,2025-06-18,June,Kolkata,West Bengal,Zudio Kolkata Store,Women,Kurti,Ethnic Wear,8,499,15,598.8,3393.2,UPI,In-Store
+ZUD10345,2025-06-22,June,Kolkata,West Bengal,Zudio Kolkata Store,Men,Men's Shorts,Bottomwear,8,399,15,478.8,2713.2,UPI,In-Store
+ZUD10128,2025-06-23,June,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's T-Shirt,T-Shirts,3,299,15,134.55,762.45,Debit Card,Online
+ZUD10173,2025-06-23,June,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Women,Kurti,Ethnic Wear,2,499,5,49.9,948.1,Cash,In-Store
+ZUD10146,2025-06-23,June,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Women's Top,Tops,6,299,5,89.7,1704.3,Credit Card,In-Store
+ZUD10298,2025-06-24,June,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Kids,Kids' Shorts,Kidswear,6,249,0,0.0,1494.0,Credit Card,Online
+ZUD10221,2025-06-24,June,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Women,Kurti,Ethnic Wear,6,499,20,598.8,2395.2,Debit Card,In-Store
+ZUD10321,2025-06-25,June,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Jeans,Bottomwear,4,899,10,359.6,3236.4,Debit Card,In-Store
+ZUD10171,2025-06-25,June,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Jeans,Bottomwear,1,899,0,0.0,899.0,Cash,Online
+ZUD10241,2025-06-26,June,Delhi,Delhi,Zudio Delhi Store,Women,Kurti,Ethnic Wear,2,499,5,49.9,948.1,Cash,In-Store
+ZUD10193,2025-06-26,June,Jaipur,Rajasthan,Zudio Jaipur Store,Kids,Kids' T-Shirt,Kidswear,6,199,0,0.0,1194.0,Credit Card,In-Store
+ZUD10185,2025-06-28,June,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Men,Men's Hoodie,Winterwear,6,999,0,0.0,5994.0,UPI,In-Store
+ZUD10047,2025-06-29,June,Kolkata,West Bengal,Zudio Kolkata Store,Women,Women's T-Shirt,T-Shirts,6,249,20,298.8,1195.2,UPI,In-Store
+ZUD10197,2025-07-02,July,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Kids,Kids' Jeans,Kidswear,5,499,0,0.0,2495.0,Credit Card,Online
+ZUD10314,2025-07-04,July,Kolkata,West Bengal,Zudio Kolkata Store,Men,Men's T-Shirt,T-Shirts,2,299,15,89.7,508.3,Credit Card,In-Store
+ZUD10211,2025-07-04,July,Kolkata,West Bengal,Zudio Kolkata Store,Men,Men's Hoodie,Winterwear,3,999,10,299.7,2697.3,UPI,In-Store
+ZUD10210,2025-07-05,July,Kolkata,West Bengal,Zudio Kolkata Store,Women,Women's Jeans,Bottomwear,3,799,0,0.0,2397.0,Cash,In-Store
+ZUD10204,2025-07-05,July,Hyderabad,Telangana,Zudio Hyderabad Store,Accessories,Handbag,Accessories,3,499,10,149.7,1347.3,Credit Card,In-Store
+ZUD10180,2025-07-06,July,Jaipur,Rajasthan,Zudio Jaipur Store,Accessories,Belt,Accessories,8,249,0,0.0,1992.0,Debit Card,In-Store
+ZUD10042,2025-07-06,July,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Kids,Kids' Dress,Kidswear,4,399,10,159.6,1436.4,Credit Card,Online
+ZUD10130,2025-07-08,July,Pune,Maharashtra,Zudio Pune Store,Men,Men's Shirt,Shirts,2,599,10,119.8,1078.2,Cash,In-Store
+ZUD10199,2025-07-08,July,Kolkata,West Bengal,Zudio Kolkata Store,Women,Women's Top,Tops,7,299,0,0.0,2093.0,Debit Card,In-Store
+ZUD10276,2025-07-09,July,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Jeans,Bottomwear,1,899,5,44.95,854.05,UPI,In-Store
+ZUD10118,2025-07-11,July,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's T-Shirt,T-Shirts,7,249,10,174.3,1568.7,Debit Card,In-Store
+ZUD10313,2025-07-13,July,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Shorts,Bottomwear,8,399,10,319.2,2872.8,Cash,In-Store
+ZUD10006,2025-07-13,July,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Shorts,Bottomwear,6,399,10,239.4,2154.6,UPI,In-Store
+ZUD10283,2025-07-14,July,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Kids,Kids' Shorts,Kidswear,6,249,5,74.7,1419.3,Cash,Online
+ZUD10264,2025-07-15,July,Bengaluru,Karnataka,Zudio Bengaluru Store,Kids,Kids' Shorts,Kidswear,7,249,0,0.0,1743.0,Debit Card,In-Store
+ZUD10014,2025-07-17,July,Hyderabad,Telangana,Zudio Hyderabad Store,Men,Men's Hoodie,Winterwear,5,999,20,999.0,3996.0,UPI,In-Store
+ZUD10112,2025-07-17,July,Delhi,Delhi,Zudio Delhi Store,Men,Men's T-Shirt,T-Shirts,3,299,10,89.7,807.3,Credit Card,In-Store
+ZUD10301,2025-07-19,July,Mumbai,Maharashtra,Zudio Mumbai Store,Women,Women's Top,Tops,1,299,20,59.8,239.2,Cash,In-Store
+ZUD10232,2025-07-21,July,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Kids,Kids' Jeans,Kidswear,6,499,10,299.4,2694.6,Cash,In-Store
+ZUD10163,2025-07-22,July,Pune,Maharashtra,Zudio Pune Store,Kids,Kids' Dress,Kidswear,6,399,15,359.1,2034.9,UPI,In-Store
+ZUD10323,2025-07-22,July,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Kids,Kids' Dress,Kidswear,8,399,10,319.2,2872.8,Cash,In-Store
+ZUD10160,2025-07-23,July,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Men,Men's Hoodie,Winterwear,2,999,15,299.7,1698.3,Cash,Online
+ZUD10198,2025-07-24,July,Bengaluru,Karnataka,Zudio Bengaluru Store,Kids,Kids' Shorts,Kidswear,6,249,20,298.8,1195.2,Cash,Online
+ZUD10052,2025-07-26,July,Pune,Maharashtra,Zudio Pune Store,Men,Men's Jeans,Bottomwear,7,899,10,629.3,5663.7,Cash,In-Store
+ZUD10291,2025-07-27,July,Bengaluru,Karnataka,Zudio Bengaluru Store,Men,Men's Jeans,Bottomwear,5,899,10,449.5,4045.5,UPI,In-Store
+ZUD10028,2025-07-28,July,Bengaluru,Karnataka,Zudio Bengaluru Store,Men,Men's Hoodie,Winterwear,1,999,0,0.0,999.0,UPI,Online
+ZUD10312,2025-07-29,July,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Kurti,Ethnic Wear,4,499,5,99.8,1896.2,Debit Card,Online
+ZUD10304,2025-07-31,July,Hyderabad,Telangana,Zudio Hyderabad Store,Kids,Kids' Dress,Kidswear,3,399,10,119.7,1077.3,Debit Card,In-Store
+ZUD10134,2025-08-01,August,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Kids,Kids' Shorts,Kidswear,5,249,0,0.0,1245.0,Credit Card,In-Store
+ZUD10057,2025-08-01,August,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Women,Women's Dress,Dresses,8,699,5,279.6,5312.4,Debit Card,In-Store
+ZUD10107,2025-08-01,August,Bengaluru,Karnataka,Zudio Bengaluru Store,Accessories,Cap,Accessories,8,199,10,159.2,1432.8,Cash,In-Store
+ZUD10247,2025-08-02,August,Delhi,Delhi,Zudio Delhi Store,Accessories,Handbag,Accessories,7,499,15,523.95,2969.05,Debit Card,In-Store
+ZUD10154,2025-08-03,August,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Kurti,Ethnic Wear,5,499,10,249.5,2245.5,UPI,In-Store
+ZUD10329,2025-08-05,August,Delhi,Delhi,Zudio Delhi Store,Men,Men's Shorts,Bottomwear,3,399,10,119.7,1077.3,Cash,In-Store
+ZUD10335,2025-08-06,August,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Kids,Kids' Dress,Kidswear,5,399,15,299.25,1695.75,UPI,Online
+ZUD10095,2025-08-06,August,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Jeans,Bottomwear,5,899,15,674.25,3820.75,UPI,In-Store
+ZUD10349,2025-08-08,August,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's T-Shirt,T-Shirts,4,299,10,119.6,1076.4,Debit Card,In-Store
+ZUD10227,2025-08-09,August,Delhi,Delhi,Zudio Delhi Store,Kids,Kids' Jeans,Kidswear,7,499,5,174.65,3318.35,Cash,In-Store
+ZUD10214,2025-08-10,August,Kolkata,West Bengal,Zudio Kolkata Store,Accessories,Handbag,Accessories,2,499,10,99.8,898.2,Credit Card,In-Store
+ZUD10308,2025-08-14,August,Mumbai,Maharashtra,Zudio Mumbai Store,Men,Men's Shorts,Bottomwear,3,399,5,59.85,1137.15,Debit Card,Online
+ZUD10113,2025-08-14,August,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Hoodie,Winterwear,1,999,10,99.9,899.1,Cash,In-Store
+ZUD10091,2025-08-15,August,Pune,Maharashtra,Zudio Pune Store,Kids,Kids' Shorts,Kidswear,5,249,10,124.5,1120.5,UPI,In-Store
+ZUD10121,2025-08-15,August,Mumbai,Maharashtra,Zudio Mumbai Store,Accessories,Belt,Accessories,7,249,10,174.3,1568.7,Cash,In-Store
+ZUD10205,2025-08-16,August,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Shorts,Bottomwear,6,399,5,119.7,2274.3,Credit Card,In-Store
+ZUD10135,2025-08-16,August,Bengaluru,Karnataka,Zudio Bengaluru Store,Accessories,Belt,Accessories,2,249,20,99.6,398.4,Credit Card,In-Store
+ZUD10110,2025-08-17,August,Kolkata,West Bengal,Zudio Kolkata Store,Men,Men's Shirt,Shirts,7,599,10,419.3,3773.7,Credit Card,In-Store
+ZUD10078,2025-08-19,August,Jaipur,Rajasthan,Zudio Jaipur Store,Kids,Kids' Shorts,Kidswear,6,249,0,0.0,1494.0,Credit Card,In-Store
+ZUD10184,2025-08-19,August,Kolkata,West Bengal,Zudio Kolkata Store,Women,Women's Dress,Dresses,2,699,20,279.6,1118.4,Debit Card,Online
+ZUD10008,2025-08-21,August,Mumbai,Maharashtra,Zudio Mumbai Store,Women,Kurti,Ethnic Wear,4,499,10,199.6,1796.4,UPI,In-Store
+ZUD10249,2025-08-21,August,Kolkata,West Bengal,Zudio Kolkata Store,Men,Men's Jeans,Bottomwear,8,899,5,359.6,6832.4,UPI,In-Store
+ZUD10220,2025-08-21,August,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Jeans,Bottomwear,8,899,5,359.6,6832.4,Cash,In-Store
+ZUD10059,2025-08-22,August,Delhi,Delhi,Zudio Delhi Store,Kids,Kids' Jeans,Kidswear,8,499,10,399.2,3592.8,Cash,Online
+ZUD10034,2025-08-23,August,Mumbai,Maharashtra,Zudio Mumbai Store,Accessories,Handbag,Accessories,1,499,10,49.9,449.1,UPI,In-Store
+ZUD10307,2025-08-23,August,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Women's Top,Tops,7,299,5,104.65,1988.35,Cash,In-Store
+ZUD10195,2025-08-23,August,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Women,Women's Top,Tops,4,299,15,179.4,1016.6,Credit Card,In-Store
+ZUD10267,2025-08-24,August,Mumbai,Maharashtra,Zudio Mumbai Store,Women,Women's Jeans,Bottomwear,2,799,0,0.0,1598.0,Cash,In-Store
+ZUD10284,2025-08-24,August,Delhi,Delhi,Zudio Delhi Store,Kids,Kids' Jeans,Kidswear,3,499,0,0.0,1497.0,Cash,In-Store
+ZUD10120,2025-08-25,August,Pune,Maharashtra,Zudio Pune Store,Men,Men's T-Shirt,T-Shirts,8,299,20,478.4,1913.6,Debit Card,In-Store
+ZUD10077,2025-08-27,August,Hyderabad,Telangana,Zudio Hyderabad Store,Kids,Kids' Jeans,Kidswear,6,499,15,449.1,2544.9,UPI,In-Store
+ZUD10066,2025-08-28,August,Delhi,Delhi,Zudio Delhi Store,Accessories,Handbag,Accessories,7,499,10,349.3,3143.7,UPI,In-Store
+ZUD10192,2025-08-29,August,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Men,Men's Shirt,Shirts,5,599,10,299.5,2695.5,Credit Card,In-Store
+ZUD10181,2025-08-29,August,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's T-Shirt,T-Shirts,8,249,10,199.2,1792.8,Credit Card,Online
+ZUD10263,2025-08-30,August,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Women,Women's Jeans,Bottomwear,3,799,15,359.55,2037.45,Cash,In-Store
+ZUD10231,2025-08-31,August,Kolkata,West Bengal,Zudio Kolkata Store,Men,Men's Shorts,Bottomwear,3,399,5,59.85,1137.15,Credit Card,In-Store
+ZUD10233,2025-09-01,September,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Women,Women's Top,Tops,7,299,10,209.3,1883.7,UPI,Online
+ZUD10064,2025-09-02,September,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Accessories,Belt,Accessories,7,249,15,261.45,1481.55,Cash,In-Store
+ZUD10242,2025-09-03,September,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's T-Shirt,T-Shirts,5,249,20,249.0,996.0,Credit Card,In-Store
+ZUD10088,2025-09-03,September,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Women's Top,Tops,5,299,20,299.0,1196.0,Cash,In-Store
+ZUD10240,2025-09-03,September,Mumbai,Maharashtra,Zudio Mumbai Store,Men,Men's Shirt,Shirts,5,599,0,0.0,2995.0,Cash,Online
+ZUD10065,2025-09-07,September,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Dress,Dresses,1,699,5,34.95,664.05,Cash,In-Store
+ZUD10079,2025-09-07,September,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Kurti,Ethnic Wear,6,499,5,149.7,2844.3,Credit Card,In-Store
+ZUD10332,2025-09-08,September,Delhi,Delhi,Zudio Delhi Store,Women,Women's Top,Tops,4,299,5,59.8,1136.2,Credit Card,In-Store
+ZUD10299,2025-09-09,September,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Dress,Dresses,7,699,0,0.0,4893.0,Cash,In-Store
+ZUD10159,2025-09-12,September,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's Dress,Dresses,4,699,10,279.6,2516.4,Credit Card,In-Store
+ZUD10219,2025-09-12,September,Kolkata,West Bengal,Zudio Kolkata Store,Women,Kurti,Ethnic Wear,8,499,0,0.0,3992.0,Cash,In-Store
+ZUD10289,2025-09-15,September,Hyderabad,Telangana,Zudio Hyderabad Store,Kids,Kids' Dress,Kidswear,2,399,20,159.6,638.4,Debit Card,In-Store
+ZUD10182,2025-09-15,September,Kolkata,West Bengal,Zudio Kolkata Store,Men,Men's Jeans,Bottomwear,4,899,15,539.4,3056.6,Debit Card,In-Store
+ZUD10270,2025-09-15,September,Pune,Maharashtra,Zudio Pune Store,Women,Women's T-Shirt,T-Shirts,6,249,10,149.4,1344.6,Credit Card,In-Store
+ZUD10217,2025-09-15,September,Delhi,Delhi,Zudio Delhi Store,Men,Men's Shorts,Bottomwear,3,399,0,0.0,1197.0,Credit Card,In-Store
+ZUD10145,2025-09-16,September,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Men,Men's T-Shirt,T-Shirts,4,299,5,59.8,1136.2,Debit Card,Online
+ZUD10168,2025-09-17,September,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Women's Dress,Dresses,1,699,0,0.0,699.0,Credit Card,In-Store
+ZUD10109,2025-09-17,September,Pune,Maharashtra,Zudio Pune Store,Kids,Kids' Jeans,Kidswear,5,499,15,374.25,2120.75,Cash,In-Store
+ZUD10260,2025-09-19,September,Bengaluru,Karnataka,Zudio Bengaluru Store,Kids,Kids' Shorts,Kidswear,3,249,10,74.7,672.3,Cash,In-Store
+ZUD10222,2025-09-21,September,Kolkata,West Bengal,Zudio Kolkata Store,Women,Women's Jeans,Bottomwear,8,799,0,0.0,6392.0,Cash,In-Store
+ZUD10196,2025-09-21,September,Hyderabad,Telangana,Zudio Hyderabad Store,Accessories,Socks Pack,Accessories,5,149,0,0.0,745.0,Debit Card,In-Store
+ZUD10080,2025-09-22,September,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Dress,Dresses,8,699,10,559.2,5032.8,Debit Card,Online
+ZUD10350,2025-09-23,September,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Kurti,Ethnic Wear,2,499,20,199.6,798.4,Cash,In-Store
+ZUD10237,2025-09-23,September,Jaipur,Rajasthan,Zudio Jaipur Store,Men,Men's Hoodie,Winterwear,7,999,5,349.65,6643.35,Debit Card,Online
+ZUD10172,2025-09-26,September,Kolkata,West Bengal,Zudio Kolkata Store,Men,Men's Shirt,Shirts,6,599,20,718.8,2875.2,Cash,Online
+ZUD10258,2025-09-28,September,Mumbai,Maharashtra,Zudio Mumbai Store,Women,Women's T-Shirt,T-Shirts,2,249,0,0.0,498.0,Debit Card,In-Store
+ZUD10164,2025-09-29,September,Kolkata,West Bengal,Zudio Kolkata Store,Women,Kurti,Ethnic Wear,6,499,10,299.4,2694.6,Debit Card,In-Store
+ZUD10127,2025-09-29,September,Kolkata,West Bengal,Zudio Kolkata Store,Accessories,Cap,Accessories,5,199,20,199.0,796.0,Cash,In-Store
+ZUD10019,2025-09-30,September,Delhi,Delhi,Zudio Delhi Store,Women,Women's Dress,Dresses,3,699,5,104.85,1992.15,Cash,In-Store
+ZUD10288,2025-09-30,September,Kolkata,West Bengal,Zudio Kolkata Store,Men,Men's T-Shirt,T-Shirts,5,299,10,149.5,1345.5,Credit Card,In-Store
+ZUD10238,2025-09-30,September,Mumbai,Maharashtra,Zudio Mumbai Store,Men,Men's Shirt,Shirts,8,599,0,0.0,4792.0,Debit Card,In-Store
+ZUD10075,2025-09-30,September,Hyderabad,Telangana,Zudio Hyderabad Store,Men,Men's T-Shirt,T-Shirts,6,299,0,0.0,1794.0,Cash,Online
+ZUD10009,2025-10-01,October,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Dress,Dresses,5,699,20,699.0,2796.0,Debit Card,In-Store
+ZUD10344,2025-10-01,October,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's Dress,Dresses,4,699,10,279.6,2516.4,Credit Card,In-Store
+ZUD10035,2025-10-03,October,Jaipur,Rajasthan,Zudio Jaipur Store,Men,Men's Jeans,Bottomwear,6,899,15,809.1,4584.9,Debit Card,In-Store
+ZUD10333,2025-10-03,October,Pune,Maharashtra,Zudio Pune Store,Women,Women's Dress,Dresses,8,699,10,559.2,5032.8,UPI,In-Store
+ZUD10020,2025-10-04,October,Jaipur,Rajasthan,Zudio Jaipur Store,Men,Men's Hoodie,Winterwear,6,999,5,299.7,5694.3,Cash,In-Store
+ZUD10139,2025-10-04,October,Pune,Maharashtra,Zudio Pune Store,Kids,Kids' T-Shirt,Kidswear,1,199,0,0.0,199.0,Credit Card,In-Store
+ZUD10063,2025-10-05,October,Bengaluru,Karnataka,Zudio Bengaluru Store,Men,Men's Jeans,Bottomwear,7,899,5,314.65,5978.35,UPI,Online
+ZUD10285,2025-10-05,October,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Men,Men's T-Shirt,T-Shirts,1,299,15,44.85,254.15,Cash,In-Store
+ZUD10245,2025-10-09,October,Delhi,Delhi,Zudio Delhi Store,Men,Men's Hoodie,Winterwear,8,999,10,799.2,7192.8,Credit Card,In-Store
+ZUD10102,2025-10-09,October,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Men,Men's Shirt,Shirts,5,599,5,149.75,2845.25,Cash,In-Store
+ZUD10027,2025-10-09,October,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Women's T-Shirt,T-Shirts,1,249,20,49.8,199.2,Debit Card,In-Store
+ZUD10282,2025-10-11,October,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Men,Men's Hoodie,Winterwear,5,999,0,0.0,4995.0,Credit Card,In-Store
+ZUD10148,2025-10-12,October,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Men,Men's Shorts,Bottomwear,6,399,10,239.4,2154.6,Cash,In-Store
+ZUD10275,2025-10-13,October,Kolkata,West Bengal,Zudio Kolkata Store,Women,Women's Jeans,Bottomwear,5,799,0,0.0,3995.0,UPI,Online
+ZUD10239,2025-10-13,October,Pune,Maharashtra,Zudio Pune Store,Women,Kurti,Ethnic Wear,5,499,10,249.5,2245.5,Cash,In-Store
+ZUD10129,2025-10-13,October,Mumbai,Maharashtra,Zudio Mumbai Store,Women,Women's Dress,Dresses,1,699,5,34.95,664.05,UPI,Online
+ZUD10322,2025-10-14,October,Hyderabad,Telangana,Zudio Hyderabad Store,Accessories,Cap,Accessories,7,199,10,139.3,1253.7,Debit Card,Online
+ZUD10261,2025-10-14,October,Bengaluru,Karnataka,Zudio Bengaluru Store,Men,Men's Shirt,Shirts,1,599,5,29.95,569.05,UPI,In-Store
+ZUD10153,2025-10-17,October,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's Top,Tops,2,299,10,59.8,538.2,Debit Card,Online
+ZUD10228,2025-10-19,October,Kolkata,West Bengal,Zudio Kolkata Store,Women,Women's T-Shirt,T-Shirts,5,249,0,0.0,1245.0,Cash,In-Store
+ZUD10170,2025-10-20,October,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Dress,Dresses,3,699,20,419.4,1677.6,Cash,In-Store
+ZUD10191,2025-10-20,October,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's Top,Tops,6,299,0,0.0,1794.0,UPI,Online
+ZUD10150,2025-10-23,October,Kolkata,West Bengal,Zudio Kolkata Store,Women,Women's Dress,Dresses,4,699,15,419.4,2376.6,Credit Card,In-Store
+ZUD10099,2025-10-23,October,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Kids,Kids' Dress,Kidswear,8,399,10,319.2,2872.8,Cash,In-Store
+ZUD10224,2025-10-23,October,Mumbai,Maharashtra,Zudio Mumbai Store,Women,Women's Jeans,Bottomwear,8,799,20,1278.4,5113.6,Cash,Online
+ZUD10054,2025-10-24,October,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Men,Men's Hoodie,Winterwear,8,999,5,399.6,7592.4,Debit Card,Online
+ZUD10262,2025-10-24,October,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Kurti,Ethnic Wear,2,499,10,99.8,898.2,UPI,In-Store
+ZUD10343,2025-10-25,October,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Kids,Kids' T-Shirt,Kidswear,8,199,10,159.2,1432.8,Credit Card,In-Store
+ZUD10012,2025-10-27,October,Hyderabad,Telangana,Zudio Hyderabad Store,Kids,Kids' Shorts,Kidswear,6,249,0,0.0,1494.0,Debit Card,Online
+ZUD10140,2025-10-29,October,Mumbai,Maharashtra,Zudio Mumbai Store,Women,Kurti,Ethnic Wear,1,499,0,0.0,499.0,Cash,In-Store
+ZUD10085,2025-10-29,October,Kolkata,West Bengal,Zudio Kolkata Store,Men,Men's T-Shirt,T-Shirts,4,299,5,59.8,1136.2,Credit Card,In-Store
+ZUD10002,2025-10-30,October,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's Top,Tops,4,299,0,0.0,1196.0,UPI,In-Store
+ZUD10074,2025-10-31,October,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Kurti,Ethnic Wear,2,499,15,149.7,848.3,UPI,In-Store
+ZUD10108,2025-11-03,November,Kolkata,West Bengal,Zudio Kolkata Store,Kids,Kids' Dress,Kidswear,2,399,5,39.9,758.1,Cash,In-Store
+ZUD10156,2025-11-07,November,Bengaluru,Karnataka,Zudio Bengaluru Store,Men,Men's Jeans,Bottomwear,2,899,5,89.9,1708.1,UPI,In-Store
+ZUD10326,2025-11-09,November,Hyderabad,Telangana,Zudio Hyderabad Store,Men,Men's Shirt,Shirts,6,599,15,539.1,3054.9,Debit Card,In-Store
+ZUD10327,2025-11-11,November,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Women,Women's Jeans,Bottomwear,6,799,0,0.0,4794.0,Credit Card,In-Store
+ZUD10256,2025-11-11,November,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Jeans,Bottomwear,8,799,0,0.0,6392.0,Credit Card,Online
+ZUD10053,2025-11-12,November,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Women,Women's T-Shirt,T-Shirts,1,249,5,12.45,236.55,Debit Card,Online
+ZUD10300,2025-11-13,November,Pune,Maharashtra,Zudio Pune Store,Kids,Kids' T-Shirt,Kidswear,2,199,5,19.9,378.1,Cash,In-Store
+ZUD10131,2025-11-14,November,Kolkata,West Bengal,Zudio Kolkata Store,Women,Women's T-Shirt,T-Shirts,4,249,10,99.6,896.4,Cash,In-Store
+ZUD10043,2025-11-14,November,Delhi,Delhi,Zudio Delhi Store,Accessories,Cap,Accessories,3,199,20,119.4,477.6,Debit Card,Online
+ZUD10071,2025-11-15,November,Delhi,Delhi,Zudio Delhi Store,Women,Women's Dress,Dresses,2,699,10,139.8,1258.2,Debit Card,Online
+ZUD10051,2025-11-16,November,Mumbai,Maharashtra,Zudio Mumbai Store,Men,Men's T-Shirt,T-Shirts,5,299,10,149.5,1345.5,Cash,In-Store
+ZUD10229,2025-11-16,November,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Women,Women's Top,Tops,7,299,5,104.65,1988.35,Credit Card,In-Store
+ZUD10272,2025-11-17,November,Hyderabad,Telangana,Zudio Hyderabad Store,Men,Men's T-Shirt,T-Shirts,6,299,20,358.8,1435.2,Cash,In-Store
+ZUD10166,2025-11-18,November,Bengaluru,Karnataka,Zudio Bengaluru Store,Men,Men's Shorts,Bottomwear,8,399,10,319.2,2872.8,Credit Card,In-Store
+ZUD10125,2025-11-18,November,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Accessories,Handbag,Accessories,5,499,15,374.25,2120.75,UPI,In-Store
+ZUD10286,2025-11-19,November,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Jeans,Bottomwear,1,799,0,0.0,799.0,Cash,In-Store
+ZUD10190,2025-11-20,November,Kolkata,West Bengal,Zudio Kolkata Store,Men,Men's Jeans,Bottomwear,5,899,5,224.75,4270.25,Credit Card,In-Store
+ZUD10040,2025-11-23,November,Pune,Maharashtra,Zudio Pune Store,Women,Women's Dress,Dresses,7,699,10,489.3,4403.7,UPI,In-Store
+ZUD10001,2025-11-24,November,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Kurti,Ethnic Wear,4,499,0,0.0,1996.0,UPI,In-Store
+ZUD10202,2025-11-24,November,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Women,Women's Dress,Dresses,6,699,10,419.4,3774.6,Debit Card,In-Store
+ZUD10194,2025-11-26,November,Delhi,Delhi,Zudio Delhi Store,Kids,Kids' Shorts,Kidswear,8,249,10,199.2,1792.8,Debit Card,In-Store
+ZUD10067,2025-11-26,November,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's Dress,Dresses,3,699,0,0.0,2097.0,Cash,In-Store
+ZUD10081,2025-11-27,November,Bengaluru,Karnataka,Zudio Bengaluru Store,Men,Men's T-Shirt,T-Shirts,2,299,5,29.9,568.1,Cash,In-Store
+ZUD10169,2025-11-27,November,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Shorts,Bottomwear,7,399,10,279.3,2513.7,UPI,Online
+ZUD10315,2025-11-28,November,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Women,Women's Dress,Dresses,6,699,20,838.8,3355.2,Cash,In-Store
+ZUD10003,2025-11-29,November,Kolkata,West Bengal,Zudio Kolkata Store,Men,Men's Hoodie,Winterwear,5,999,15,749.25,4245.75,UPI,In-Store
+ZUD10070,2025-11-29,November,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Kids,Kids' T-Shirt,Kidswear,1,199,20,39.8,159.2,Debit Card,In-Store
+ZUD10132,2025-11-29,November,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's Top,Tops,1,299,5,14.95,284.05,Cash,In-Store
+ZUD10254,2025-12-01,December,Mumbai,Maharashtra,Zudio Mumbai Store,Men,Men's T-Shirt,T-Shirts,2,299,10,59.8,538.2,Debit Card,Online
+ZUD10348,2025-12-02,December,Mumbai,Maharashtra,Zudio Mumbai Store,Women,Kurti,Ethnic Wear,3,499,0,0.0,1497.0,Credit Card,In-Store
+ZUD10103,2025-12-03,December,Kolkata,West Bengal,Zudio Kolkata Store,Men,Men's T-Shirt,T-Shirts,4,299,10,119.6,1076.4,Cash,Online
+ZUD10142,2025-12-04,December,Kolkata,West Bengal,Zudio Kolkata Store,Women,Women's Top,Tops,1,299,20,59.8,239.2,Cash,Online
+ZUD10007,2025-12-05,December,Jaipur,Rajasthan,Zudio Jaipur Store,Kids,Kids' T-Shirt,Kidswear,4,199,15,119.4,676.6,Cash,In-Store
+ZUD10037,2025-12-06,December,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Accessories,Cap,Accessories,5,199,0,0.0,995.0,UPI,In-Store
+ZUD10149,2025-12-07,December,Hyderabad,Telangana,Zudio Hyderabad Store,Kids,Kids' T-Shirt,Kidswear,5,199,10,99.5,895.5,Credit Card,In-Store
+ZUD10252,2025-12-09,December,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Women's Jeans,Bottomwear,8,799,5,319.6,6072.4,Debit Card,In-Store
+ZUD10023,2025-12-09,December,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Women's Jeans,Bottomwear,8,799,0,0.0,6392.0,Cash,Online
+ZUD10176,2025-12-10,December,Kolkata,West Bengal,Zudio Kolkata Store,Women,Women's Dress,Dresses,6,699,0,0.0,4194.0,Credit Card,In-Store
+ZUD10025,2025-12-11,December,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Women,Kurti,Ethnic Wear,2,499,0,0.0,998.0,Debit Card,Online
+ZUD10341,2025-12-13,December,Hyderabad,Telangana,Zudio Hyderabad Store,Men,Men's Shorts,Bottomwear,5,399,10,199.5,1795.5,Cash,Online
+ZUD10157,2025-12-14,December,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Men,Men's Shirt,Shirts,1,599,0,0.0,599.0,UPI,In-Store
+ZUD10317,2025-12-14,December,Ahmedabad,Gujarat,Zudio Ahmedabad Store,Men,Men's Jeans,Bottomwear,6,899,20,1078.8,4315.2,Cash,In-Store
+ZUD10235,2025-12-15,December,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Top,Tops,4,299,0,0.0,1196.0,Credit Card,Online
+ZUD10311,2025-12-16,December,Kolkata,West Bengal,Zudio Kolkata Store,Women,Women's Dress,Dresses,4,699,5,139.8,2656.2,Credit Card,In-Store
+ZUD10209,2025-12-16,December,Mumbai,Maharashtra,Zudio Mumbai Store,Men,Men's T-Shirt,T-Shirts,5,299,15,224.25,1270.75,Debit Card,In-Store
+ZUD10015,2025-12-16,December,Kolkata,West Bengal,Zudio Kolkata Store,Kids,Kids' Jeans,Kidswear,2,499,5,49.9,948.1,Debit Card,Online
+ZUD10143,2025-12-18,December,Kanpur,Uttar Pradesh,Zudio Kanpur Store,Men,Men's Hoodie,Winterwear,2,999,15,299.7,1698.3,Credit Card,In-Store
+ZUD10255,2025-12-18,December,Kolkata,West Bengal,Zudio Kolkata Store,Accessories,Belt,Accessories,2,249,10,49.8,448.2,Credit Card,In-Store
+ZUD10347,2025-12-19,December,Delhi,Delhi,Zudio Delhi Store,Kids,Kids' Jeans,Kidswear,3,499,15,224.55,1272.45,Credit Card,In-Store
+ZUD10201,2025-12-20,December,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Women's Top,Tops,6,299,10,179.4,1614.6,Cash,In-Store
+ZUD10162,2025-12-20,December,Mumbai,Maharashtra,Zudio Mumbai Store,Women,Women's Top,Tops,4,299,5,59.8,1136.2,Cash,In-Store
+ZUD10041,2025-12-20,December,Delhi,Delhi,Zudio Delhi Store,Men,Men's Shirt,Shirts,3,599,5,89.85,1707.15,UPI,In-Store
+ZUD10320,2025-12-23,December,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Kurti,Ethnic Wear,1,499,15,74.85,424.15,UPI,In-Store
+ZUD10273,2025-12-23,December,Hyderabad,Telangana,Zudio Hyderabad Store,Men,Men's Shirt,Shirts,7,599,0,0.0,4193.0,Cash,In-Store
+ZUD10087,2025-12-24,December,Delhi,Delhi,Zudio Delhi Store,Men,Men's Hoodie,Winterwear,2,999,15,299.7,1698.3,Credit Card,Online
+ZUD10004,2025-12-24,December,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's Jeans,Bottomwear,4,799,20,639.2,2556.8,Credit Card,In-Store
+ZUD10111,2025-12-24,December,Jaipur,Rajasthan,Zudio Jaipur Store,Men,Men's Jeans,Bottomwear,7,899,0,0.0,6293.0,Cash,Online
+ZUD10123,2025-12-25,December,Pune,Maharashtra,Zudio Pune Store,Women,Women's Dress,Dresses,5,699,0,0.0,3495.0,UPI,Online
+ZUD10072,2025-12-25,December,Pune,Maharashtra,Zudio Pune Store,Kids,Kids' Dress,Kidswear,2,399,15,119.7,678.3,Debit Card,In-Store
+ZUD10097,2025-12-25,December,Hyderabad,Telangana,Zudio Hyderabad Store,Accessories,Socks Pack,Accessories,8,149,0,0.0,1192.0,UPI,Online
+ZUD10257,2025-12-26,December,Kolkata,West Bengal,Zudio Kolkata Store,Accessories,Cap,Accessories,4,199,10,79.6,716.4,UPI,Online
+ZUD10083,2025-12-26,December,Bengaluru,Karnataka,Zudio Bengaluru Store,Women,Kurti,Ethnic Wear,4,499,0,0.0,1996.0,Debit Card,In-Store
+ZUD10324,2025-12-27,December,Jaipur,Rajasthan,Zudio Jaipur Store,Women,Women's Top,Tops,2,299,15,89.7,508.3,Debit Card,In-Store
+ZUD10339,2025-12-27,December,Pune,Maharashtra,Zudio Pune Store,Women,Kurti,Ethnic Wear,2,499,0,0.0,998.0,Cash,In-Store
+ZUD10094,2025-12-28,December,Pune,Maharashtra,Zudio Pune Store,Men,Men's Hoodie,Winterwear,2,999,10,199.8,1798.2,Credit Card,In-Store
+ZUD10022,2025-12-29,December,Lucknow,Uttar Pradesh,Zudio Lucknow Store,Women,Women's Top,Tops,6,299,0,0.0,1794.0,Debit Card,In-Store
+ZUD10161,2025-12-30,December,Hyderabad,Telangana,Zudio Hyderabad Store,Women,Women's Dress,Dresses,1,699,20,139.8,559.2,Debit Card,Online
